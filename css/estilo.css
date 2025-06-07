@@ -1,0 +1,81 @@
+.logo{
+	width: 60px;
+	margin: 20px;
+	display: flex;
+
+}
+body{
+	background-color: skyblue;
+}
+.imghabitos{
+	width: 200px;
+	margin: 20px;
+	border-radius: 10px;
+}
+
+.container{
+	justify-content: center;
+	margin: 25px;
+	display: flex;
+
+}
+.ima{
+	width:300px;
+height: 200px;
+}
+.card{
+	text-align: center;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+	margin: 0 10px;
+  }
+  .titulo{
+  	color: black;
+  text-align: center;
+  margin: 20px;
+  }
+  .parrafo1{
+  	color: black;
+  	font-size: 20px;
+  	text-align: justify;
+  	margin: 20px;
+  }
+  .parrafo2{
+  	color:black;
+  	text-align:justify ;
+  	font-size: 20px;
+  	margin: 20px;
+  }
+  .titulo2{
+  	color: black;
+  	margin: 20px;
+  	text-align:center;
+  }
+  .titulo3{
+  	color: black;
+  	text-align:justify;
+  	margin: 20px;
+
+  }
+  .parrafo3{
+  	color: black;
+  	margin: 20px;
+  	text-align:justify;
+  	display: flex;
+  	border: 0 5;
+  }
+.parrafo5{
+	color: black;
+	text-align: justify;
+	margin: 20px;
+}
+.pie{
+	background-color: black;
+}
+.textopie{
+	color: white;
+}
+.imagenes{
+	width: 100px;
+	margin: 20px;
+	border-radius: 120px;
+}
